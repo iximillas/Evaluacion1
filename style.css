@@ -49,15 +49,13 @@ footer {
 
 h1 {
     position: absolute;
-    top: 200;
-    right: 0;
     line-height: 1;
     font-size: 55px;
     font-weight: 590;
     letter-spacing: 0.1px;
     color: #FFFFFF;
-    top: 315px;
-    right: 490px;
+    top: 20px;
+    left: 40px;
 }
 
 h2 {
