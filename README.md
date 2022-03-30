@@ -1,6 +1,6 @@
 # Evaluacion1
 
-Características de los usuarios: Tienen entre 20 a 23 años, todos son estudiantes universitarios de diseño y tienen un alto acceso a las tecnologías (computadores de gama media-alta, iphone, ipad, etc...). 
+Características de los usuarios: Tienen entre 20 a 23 años, todos son estudiantes universitarios de diseño y tienen un alto acceso a las tecnologías (computadores de gama media-alta como: Asus vivobook, macbook pro, macbook air, omen hp, además de iphone, ipad, etc...). 
 
 ![WhatsApp Image 2022-03-30 at 10 59 29 AM](https://user-images.githubusercontent.com/101231278/160854709-28893726-f4eb-44b8-879d-343efe3dca1a.jpeg)
 
@@ -9,6 +9,10 @@ Características de los usuarios: Tienen entre 20 a 23 años, todos son estudian
 
 
 ![WhatsApp Image 2022-03-30 at 11 14 20 AM](https://user-images.githubusercontent.com/101231278/160856955-4c5ef290-a2f2-473d-807b-a76f0c9cb261.jpeg)
+
+
+![WhatsApp Image 2022-03-30 at 11 23 39 AM](https://user-images.githubusercontent.com/101231278/160858853-121842d4-7113-4c16-9e0a-f76d8d332ad3.jpeg)
+
 
 
 
